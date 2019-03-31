@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  30 MAR 2019 21:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  30 MAR 2019 21:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1114,7 +1114,7 @@ Overfull \vbox (6.07063pt too high) detected at line 39
 
 ])
 (./secoes/OverviewModelo/overviewmodelo.tex
-<./pic/AI.png, id=284, 120.45pt x 155.8623pt>
+<./pic/AI.png, id=285, 120.45pt x 155.8623pt>
 File: ./pic/AI.png Graphic file (type png)
 <use ./pic/AI.png>
 Package pdftex.def Info: ./pic/AI.png  used on input line 12.
@@ -1241,10 +1241,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 19806 strings out of 492649
- 371902 string characters out of 6129622
+ 19808 strings out of 492649
+ 371920 string characters out of 6129622
  485804 words of memory out of 5000000
- 22982 multiletter control sequences out of 15000+600000
+ 22984 multiletter control sequences out of 15000+600000
  35300 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,64p,791b,656s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1255,7 +1255,7 @@ st/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/t
 ype1/public/lm/lmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/h
 elvetic/uhvr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/helvetic
 /uhvro8a.pfb>
-Output written on Apresentacao_BuenosAires.pdf (32 pages, 2165217 bytes).
+Output written on Apresentacao_BuenosAires.pdf (32 pages, 2165220 bytes).
 PDF statistics:
  398 PDF objects out of 1000 (max. 8388607)
  321 compressed objects within 4 object streams
