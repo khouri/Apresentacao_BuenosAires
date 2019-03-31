@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  30 MAR 2019 18:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  30 MAR 2019 20:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -988,32 +988,31 @@ Package microtype Info: Loading generic protrusion settings for font family
 es/Sumario/sumario.tex (./Apresentacao_BuenosAires.toc) [2
 
 ]) (./secoes/Apresentacao/apresentacao.tex
-<./pic/AdilsonArgentina.jpg, id=114, 2585.66pt x 1939.245pt>
-File: ./pic/AdilsonArgentina.jpg Graphic file (type jpg)
-<use ./pic/AdilsonArgentina.jpg>
-Package pdftex.def Info: ./pic/AdilsonArgentina.jpg  used on input line 16.
-(pdftex.def)             Requested size: 199.16351pt x 142.24133pt.
+<./pic/join.png, id=114, 1056.94875pt x 747.79375pt>
+File: ./pic/join.png Graphic file (type png)
+<use ./pic/join.png>
+Package pdftex.def Info: ./pic/join.png  used on input line 16.
+(pdftex.def)             Requested size: 199.1612pt x 142.26485pt.
 
-Overfull \vbox (11.85208pt too high) detected at line 16
+Overfull \vbox (11.8756pt too high) detected at line 16
  []
 
 [3
 
- <./pic/AdilsonArgentina.jpg>] [4
+ <./pic/join.png>] [4
 
 ] [5
 
 ]) (./secoes/DSProcess/dsprocess.tex
-<./pic/dsprocess.png, id=137, 2590.42781pt x 1932.46968pt>
+<./pic/dsprocess.png, id=139, 2590.42781pt x 1932.46968pt>
 File: ./pic/dsprocess.png Graphic file (type png)
 <use ./pic/dsprocess.png>
 Package pdftex.def Info: ./pic/dsprocess.png  used on input line 12.
 (pdftex.def)             Requested size: 284.51315pt x 170.70067pt.
-
-[6
+ [6
 
  <./pic/dsprocess.png>]) (./secoes/ProcessoModelagem/processomodelagem.tex
-<./pic/CRISPDM.png, id=146, 769.37437pt x 770.88pt>
+<./pic/CRISPDM.png, id=148, 769.37437pt x 770.88pt>
 File: ./pic/CRISPDM.png Graphic file (type png)
 <use ./pic/CRISPDM.png>
 Package pdftex.def Info: ./pic/CRISPDM.png  used on input line 15.
@@ -1026,18 +1025,52 @@ Overfull \vbox (29.8377pt too high) detected at line 15
 
  <./pic/CRISPDM.png>] [8
 
-]) (./secoes/PagSeguro/pagseguro.tex [9
+]
+<./pic/metodoCientifico.png, id=165, 1927.2pt x 1572.87625pt>
+File: ./pic/metodoCientifico.png Graphic file (type png)
+<use ./pic/metodoCientifico.png>
+Package pdftex.def Info: ./pic/metodoCientifico.png  used on input line 39.
+(pdftex.def)             Requested size: 284.50949pt x 170.7129pt.
+pdfTeX warning (ext4): destination with the same identifier (name{fig_brincadei
+ra}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.39 \end{frame}
+                 [9
 
-] [10
-
-])
-(./secoes/NuvemShop/nuvemshop.tex [11
-
-]) (./secoes/Amostragem/amostragem.tex
-[12
+ <./pic/metodoCientifico.png>] [10
 
 ]
-<./pic/kddprocess.jpg, id=190, 848.16875pt x 387.4475pt>
+<./pic/wall.jpg, id=181, 2569.6pt x 1445.4pt>
+File: ./pic/wall.jpg Graphic file (type jpg)
+<use ./pic/wall.jpg>
+Package pdftex.def Info: ./pic/wall.jpg  used on input line 61.
+(pdftex.def)             Requested size: 284.4997pt x 170.70569pt.
+pdfTeX warning (ext4): destination with the same identifier (name{fig_brincadei
+ra}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.61 \end{frame}
+                
+Overfull \vbox (15.67882pt too high) detected at line 61
+ []
+
+[11
+
+ <./pic/wall.jpg>] [12
+
+]) (./secoes/PagSeguro/pagseguro.tex [13
+
+] [14
+
+])
+(./secoes/NuvemShop/nuvemshop.tex [15
+
+]) (./secoes/Amostragem/amostragem.tex
+[16
+
+]
+<./pic/kddprocess.jpg, id=223, 848.16875pt x 387.4475pt>
 File: ./pic/kddprocess.jpg Graphic file (type jpg)
 <use ./pic/kddprocess.jpg>
 Package pdftex.def Info: ./pic/kddprocess.jpg  used on input line 25.
@@ -1046,10 +1079,10 @@ Package pdftex.def Info: ./pic/kddprocess.jpg  used on input line 25.
 Overfull \vbox (5.93796pt too high) detected at line 25
  []
 
-[13
+[17
 
  <./pic/kddprocess.jpg>]
-<./pic/sampling.png, id=200, 465.23813pt x 358.33875pt>
+<./pic/sampling.png, id=232, 465.23813pt x 358.33875pt>
 File: ./pic/sampling.png Graphic file (type png)
 <use ./pic/sampling.png>
 Package pdftex.def Info: ./pic/sampling.png  used on input line 39.
@@ -1058,22 +1091,22 @@ Package pdftex.def Info: ./pic/sampling.png  used on input line 39.
 Overfull \vbox (6.07063pt too high) detected at line 39
  []
 
-[14
+[18
 
- <./pic/sampling.png>] [15
+ <./pic/sampling.png>] [19
 
-] [16
+] [20
 
-] [17
+] [21
 
-] [18
+] [22
 
 ])
-(./secoes/EngenhariaDeFeatures/engenhariadefeatures.tex [19
+(./secoes/EngenhariaDeFeatures/engenhariadefeatures.tex [23
 
 ])
 (./secoes/OverviewModelo/overviewmodelo.tex
-<./pic/AI.png, id=244, 120.45pt x 155.8623pt>
+<./pic/AI.png, id=275, 120.45pt x 155.8623pt>
 File: ./pic/AI.png Graphic file (type png)
 <use ./pic/AI.png>
 Package pdftex.def Info: ./pic/AI.png  used on input line 12.
@@ -1083,10 +1116,10 @@ ra}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.12 \end{frame}
-                 [20
+                 [24
 
  <./pic/AI.png>]
-<./pic/arvore.png, id=253, 853.1875pt x 343.2825pt>
+<./pic/arvore.png, id=284, 853.1875pt x 343.2825pt>
 File: ./pic/arvore.png Graphic file (type png)
 <use ./pic/arvore.png>
 Package pdftex.def Info: ./pic/arvore.png  used on input line 28.
@@ -1095,9 +1128,9 @@ Package pdftex.def Info: ./pic/arvore.png  used on input line 28.
 Overfull \vbox (5.19717pt too high) detected at line 28
  []
 
-[21
+[25
 
- <./pic/arvore.png>]) (./secoes/Treinamento/treinamento.tex [22
+ <./pic/arvore.png>]) (./secoes/Treinamento/treinamento.tex [26
 
 ]
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 27.
@@ -1155,7 +1188,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 27.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 27.
-<./pic/matrizConfusao.png, id=273, 623.32875pt x 351.3125pt>
+<./pic/matrizConfusao.png, id=306, 623.32875pt x 351.3125pt>
 File: ./pic/matrizConfusao.png Graphic file (type png)
 <use ./pic/matrizConfusao.png>
 Package pdftex.def Info: ./pic/matrizConfusao.png  used on input line 27.
@@ -1164,17 +1197,17 @@ Package pdftex.def Info: ./pic/matrizConfusao.png  used on input line 27.
 Overfull \vbox (13.38898pt too high) detected at line 27
  []
 
-[23
+[27
 
- <./pic/matrizConfusao.png>]) (./secoes/Ferramentas/ferramentas.tex [24
+ <./pic/matrizConfusao.png>]) (./secoes/Ferramentas/ferramentas.tex [28
 
 ]
-[25
+[29
 
-]) (./secoes/Agradecimentos/agradecimentos.tex [26
+]) (./secoes/Agradecimentos/agradecimentos.tex [30
 
 ])
-(./secoes/Contato/contato.tex [27
+(./secoes/Contato/contato.tex [31
 
 ])
 \tf@nav=\write6
@@ -1200,10 +1233,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 19776 strings out of 492649
- 371554 string characters out of 6129622
+ 19796 strings out of 492649
+ 371812 string characters out of 6129622
  485803 words of memory out of 5000000
- 22964 multiletter control sequences out of 15000+600000
+ 22974 multiletter control sequences out of 15000+600000
  35300 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,64p,791b,656s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1214,10 +1247,10 @@ st/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/t
 ype1/public/lm/lmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/h
 elvetic/uhvr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/helvetic
 /uhvro8a.pfb>
-Output written on Apresentacao_BuenosAires.pdf (27 pages, 2737525 bytes).
+Output written on Apresentacao_BuenosAires.pdf (31 pages, 2164111 bytes).
 PDF statistics:
- 355 PDF objects out of 1000 (max. 8388607)
- 288 compressed objects within 3 object streams
- 75 named destinations out of 1000 (max. 500000)
- 18675 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 390 PDF objects out of 1000 (max. 8388607)
+ 314 compressed objects within 4 object streams
+ 83 named destinations out of 1000 (max. 500000)
+ 18685 words of extra memory for PDF output out of 20736 (max. 10000000)
 
