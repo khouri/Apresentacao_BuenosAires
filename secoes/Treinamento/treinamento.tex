@@ -15,7 +15,6 @@
 	\begin{block}{Validação}	
 		\begin{itemize}
 			\item O modelo é validado com o conjunto de teste, o qual não deve exibir os rótulos para o modelo
-			\item Alguma métrica de validação de modelos é usada, por exemplo, precisão $\dfrac{VP}{VP + FP}$
 		\end{itemize}
 				\begin{figure}[!htb]
 			\centering	  				
@@ -23,5 +22,22 @@
 			\caption{Obtido no link: \href{http://www.scielo.br/pdf/eagri/v33n6/19.pdf}{Scielo} }
 			\label{fig_matriz_confusao}
 		\end{figure}	
+	\end{block}
+\end{frame}
+
+\begin{frame}	
+	\begin{block}{Validação - outras métricas}	
+		\begin{itemize}
+			\item Se usarmos a matriz de confusão acima podemos obter outras métricas
+			\item Citar o problema das classes de seller (relacionar com $F1$)
+		\end{itemize}
+		\begin{equation*}
+			\setlength{\jot}{10pt}
+				\begin{aligned}
+					\textrm{Precision} &= \frac{TP}{TP + FP} \\
+					\textrm{Recall} &= \frac{TP}{TP + FN} \\
+					\textrm{F1} &= 2 * \left(  \frac{\textrm{Precision}  * \textrm{Recall}}{\textrm{Precision}  + \textrm{Recall}} \right)
+				\end{aligned}
+		\end{equation*}
 	\end{block}
 \end{frame}
